@@ -1,4 +1,4 @@
-### Hi there 👋
+### 프론트엔드 개발자를 꿈꾸고 있습니다 👋🙆‍♂️
 
 <!--
 **DongWooKim97/DongWooKim97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
