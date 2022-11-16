@@ -1,4 +1,27 @@
-### 프론트엔드 개발자를 꿈꾸고 있습니다 👋🙆‍♂️
+<div align="center"><h2> 프론트엔드 개발자를 꿈꾸는 김동우입니다. 👋🙆‍♂️</h2>
+  
+<br>
+<br>
+<br>
+  
+
+
+
+
+
+![DongWooKim97's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongWooKim97&show_icons=true&theme=dark)
+
+<br>
+
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongWooKim97&layout=compact&theme=tokyonight)
+
+  
+  </div>
+
 
 <!--
 **DongWooKim97/DongWooKim97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
