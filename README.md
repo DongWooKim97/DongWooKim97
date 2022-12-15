@@ -10,7 +10,8 @@
 
   
 
-![DongWooKim97's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongWooKim97&show_icons=true&theme=dark)
+
+![DongWooKim97's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongWooKim97&show_icons=true&theme=white)
 
 <br>
 
@@ -18,7 +19,7 @@
 
  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongWooKim97&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongWooKim97&layout=compact&theme=white)
 
   
   </div>
