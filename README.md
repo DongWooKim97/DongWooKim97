@@ -10,7 +10,7 @@
        
 <!--      
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanaukim)](https://solved.ac/nanaukim/)
- 
+  
     
 <br>
   
